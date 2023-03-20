@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\BackEnd\\Exam\\Examination System (Console App)\\Examination System\\Examination System.csproj": {}
+    "D:\\Corse\\Examination System (Console App)\\Examination System\\Examination System.csproj": {}
   },
   "projects": {
-    "F:\\BackEnd\\Exam\\Examination System (Console App)\\Examination System\\Examination System.csproj": {
+    "D:\\Corse\\Examination System (Console App)\\Examination System\\Examination System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BackEnd\\Exam\\Examination System (Console App)\\Examination System\\Examination System.csproj",
+        "projectUniqueName": "D:\\Corse\\Examination System (Console App)\\Examination System\\Examination System.csproj",
         "projectName": "Examination System",
-        "projectPath": "F:\\BackEnd\\Exam\\Examination System (Console App)\\Examination System\\Examination System.csproj",
-        "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
-        "outputPath": "F:\\BackEnd\\Exam\\Examination System (Console App)\\Examination System\\obj\\",
+        "projectPath": "D:\\Corse\\Examination System (Console App)\\Examination System\\Examination System.csproj",
+        "packagesPath": "C:\\Users\\Hussien Assem\\.nuget\\packages\\",
+        "outputPath": "D:\\Corse\\Examination System (Console App)\\Examination System\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hussien Assem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
