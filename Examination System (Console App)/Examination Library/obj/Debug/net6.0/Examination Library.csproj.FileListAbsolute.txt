@@ -1,5 +1,0 @@
-D:\Corse\Examination System (Console App)\Examination Library\obj\Debug\net6.0\Examination Library.csproj.AssemblyReference.cache
-D:\Corse\Examination System (Console App)\Examination Library\obj\Debug\net6.0\Examination Library.GeneratedMSBuildEditorConfig.editorconfig
-D:\Corse\Examination System (Console App)\Examination Library\obj\Debug\net6.0\Examination Library.AssemblyInfoInputs.cache
-D:\Corse\Examination System (Console App)\Examination Library\obj\Debug\net6.0\Examination Library.AssemblyInfo.cs
-D:\Corse\Examination System (Console App)\Examination Library\obj\Debug\net6.0\Examination Library.csproj.CoreCompileInputs.cache
